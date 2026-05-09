@@ -1,0 +1,11 @@
+{
+  "name": "Insurance News API to CRM",
+  "nodes": [
+    {
+      "parameters": { "path": "webhook-news" },
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook"
+    }
+  ],
+  "connections": {}
+}
