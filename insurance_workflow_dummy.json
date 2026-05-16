@@ -4,7 +4,8 @@
     {
       "parameters": { "path": "webhook-news" },
       "name": "Webhook",
-      "type": "n8n-nodes-base.webhook"
+      "type": "n8n-nodes-base.webhook",
+      "// Fetches news from Insurance News API and forwards them to the CRM system."
     }
   ],
   "connections": {}
