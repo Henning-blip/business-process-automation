@@ -1,5 +1,6 @@
 # Business Process Automation (n8n)
 
+## Business Process Automation using n8n
 Dieses Repository enthält visuelle Workflows zur Automatisierung von Makler-Prozessen.
 
 ## Business Case
