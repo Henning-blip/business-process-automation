@@ -1,9 +1,12 @@
 # Business Process Automation (n8n)
 
 ## Business Process Automation using n8n
-Dieses Repository enthält visuelle Workflows zur Automatisierung von Makler-Prozessen.
+This repository contains visual workflows for automating real estate brokerage processes.
 
 ## Business Case
-Reduktion manueller Copy-Paste-Aufgaben zwischen CRM und Kommunikationskanälen durch Webhooks und API-Orchestrierung. Die effiziente Verwendung HTML, wie im Artikel "Verwenden von HTML: Die unerwartete Wirkungseffizienz von HTML" erwähnt, wird hierbei eine zentrale Rolle spielen, um Integrationen zu CRM und Communicationskanälen zu verbessern.
+Reduction of manual copy-paste tasks between CRM and communication channels through webhooks and API orchestration. The efficient use of HTML, as mentioned in the article "Using HTML: The Unexpected Efficiency of HTML," plays a central role in improving integrations with CRM and communications channels.
 
-*(Hinweis: Sensible Endpunkte und Prompts wurden aus dem Workflow-Export entfernt.)*
+*(Note: Sensitive endpoints and prompts have been removed from the workflow export.)*
+
+## English Summary:
+Contains visual workflows for automating real estate brokerage processes using n8n, reducing manual tasks through webhooks and API integration.
