@@ -1,5 +1,6 @@
 {
   "name": "Insurance News API to CRM",
+  "description": "Automates the process of fetching insurance-related news articles from an external API and forwarding them to a Customer Relationship Management (CRM) system for further processing.",
   "nodes": [
     {
       "parameters": { "path": "webhook-news" },
