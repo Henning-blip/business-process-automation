@@ -9,8 +9,7 @@
       "parameters": { "path": "webhook-news" },
       "name": "Webhook",
       "type": "n8n-nodes-base.webhook",
-      "// Reads insurance-related news articles from the API and sends them to the CRM for processing.",
-      "comment": "liest insurance-fertige news articles von der API und sendet sie zur CRM-verarbeitung."
+      "comment": "liest insurance-relevanten News-Artikel von der API und sendet sie zur CRM-verarbeitung."
     }
   ],
   "connections": {}
