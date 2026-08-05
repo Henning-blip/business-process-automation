@@ -4,4 +4,4 @@
 This repository contains visual workflows for automating real estate brokerage processes.
 
 ## Business Case
-Reduction of manual copy-paste tasks between CRM and communication channels through webhooks and API orchestration. *(Note: Sensitive endpoints and prompts have been removed from the workflow export.)*
+Reduction of manual copy-paste tasks between CRM tools and communication channels through webhooks and API orchestration. *(Note: Sensitive endpoints and prompts have been removed from the workflow export.)* (e.g., Slack, email)
