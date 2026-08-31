@@ -13,7 +13,7 @@
       "parameters": { "path": "webhook-news" },
       "name": "Webhook",
       "type": "n8n-nodes-base.webhook", 
-      "comment": "reads insurance-related news articles from the API and sends them for CRM processing. liest insurance-relevanten News-Artikel von der API und sendet sie zur CRM-verarbeitung."
+      "comment": "Triggers processing of insurance news via API to CRM."
     }
   ],
   "connections": {}
