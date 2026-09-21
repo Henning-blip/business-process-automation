@@ -11,4 +11,4 @@ Reduction of manual copy-paste tasks between CRM tools and communication channel
 This repository contains **visual, customizable, and scalable** workflows for automating real estate brokerage processes using n8n.
 
 ### German Description
-Diese Repository enthält **visuelle, anpassbare und skalierbare** Workflows für die Automatisierung von Immobilienbüroverfahren unter Verwendung von n8n.
+Diese Repository enthält **visuelle, anpassbare und skalierbare** Workflows für die Automatisierung von Immobilienbrokerprozessen unter Verwendung von n8n.
