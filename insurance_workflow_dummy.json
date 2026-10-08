@@ -10,7 +10,11 @@
   },
   "nodes": [
     {
-      "parameters": { "path": "webhook-news" },
+      "parameters": { 
+        "path": "webhook-news",
+        "method": "POST", 
+        "body": "{}"
+      },
       "name": "Webhook",
       "type": "n8n-nodes-base.webhook", 
       "comment": "Triggers processing of insurance news via API to CRM."
