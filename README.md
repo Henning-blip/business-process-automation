@@ -1,3 +1,4 @@
+
 # Business Process Automation (n8n)
 
 ## Business Process Automation **using n8n**
@@ -10,4 +11,4 @@ Reduction of manual copy-paste tasks between CRM tools and communication channel
 This repository contains **visual, modifiable, and scalable** workflows for automating real estate brokerage processes using n8n.
 
 ### German Description
-Diese Repository enthält **visuelle, anpassbare und skalierbare** Workflows für die Automatisierung von Immobilienbrokerprozessen unter Verwendung von n8n.
+Diese Repository enthält **visuelle, anpassbare und skalierbare** Workflows für die Automatisierung von Immobilienverwaltung mit n8n.
