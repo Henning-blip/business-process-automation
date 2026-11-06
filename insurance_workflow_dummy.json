@@ -5,8 +5,8 @@
   "description": "Automates the process of fetching insurance-related news articles from an external API and forwarding them to a Customer Relationship Management (CRM) system for further processing.",
   "german_description": "Automatisiert den Prozess der Abruf von insurancebezogenen Nachrichtenartikeln aus einer externen API und sendet sie an ein Customer-Relationship-Management (CRM)-System für weitere Verarbeitung.",
   "docs": {
-    "summary": "This workflow automatically retrieves insurance-related news articles via an external API and forwards them to a CRM system for processing. The webhook node acts as the trigger to initiate this process.",
-    "german_summary": "Diese Workflow automatisiert den Abruf von insurancebezogenen Nachrichtenartikeln über eine externen API und leitet sie für die Verarbeitung an ein CRM-System weiter. Der Webhook-Node dient als Trigger, um diesen Prozess zu initiieren.",
+    "summary": "This workflow automatically retrieves insurance-related news articles via an external API and forwards them to a CRM system for processing. The webhook node acts as the trigger to initiate this process. It then processes these articles according to configured rules before forwarding them.",
+    "german_summary": "Diese Workflow automatisiert den Abruf von insurancebezogenen Nachrichtenartikeln über eine externen API und leitet sie für die Verarbeitung an ein CRM-System weiter. Der Webhook-Node dient als Trigger, um diesen Prozess zu initiieren. Danach werden diese Artikel gemäß konfigurierten Regeln verarbeitet bevor sie weitergeleitet werden.",
     "languages": ["en", "de"]
   },
   "nodes": [
