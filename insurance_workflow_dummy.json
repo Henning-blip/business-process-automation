@@ -14,7 +14,8 @@
       "parameters": { 
         "path": "webhook-news",
         "method": "POST", 
-        "body": "{}"
+        "body": "{}",
+        "comment2": "This webhook is part of the insurance news API integration, triggering processing when new articles are available."
       },
       "name": "Webhook",
       "type": "n8n-nodes-base.webhook", 
